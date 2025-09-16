@@ -18,3 +18,4 @@
 *.vcxproj filter=lfs diff=lfs merge=lfs -text
 *.filters filter=lfs diff=lfs merge=lfs -text
 *.user filter=lfs diff=lfs merge=lfs -text
+/wk03-dy01-pr01/wk03-dy01-pr01/x64/Debug/wk03-dy01-pr01.tlog/unsuccessfulbuild filter=lfs diff=lfs merge=lfs -text
