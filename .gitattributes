@@ -19,3 +19,7 @@
 *.filters filter=lfs diff=lfs merge=lfs -text
 *.user filter=lfs diff=lfs merge=lfs -text
 /wk03-dy01-pr01/wk03-dy01-pr01/x64/Debug/wk03-dy01-pr01.tlog/unsuccessfulbuild filter=lfs diff=lfs merge=lfs -text
+/wk05-dy01-pr02/.vs/wk05-dy01-pr02/copilot-chat/b3e080f6/sessions/04847910-7e09-43ca-a126-721ba601cadd filter=lfs diff=lfs merge=lfs -text
+/wk05-dy01-pr02/.vs/wk05-dy01-pr02/copilot-chat/b3e080f6/sessions/12297d56-0e3b-4730-afa2-6b389993c677 filter=lfs diff=lfs merge=lfs -text
+/wk05-dy01-pr02/.vs/wk05-dy01-pr02/copilot-chat/b3e080f6/sessions/a047274c-00ca-40c5-9515-1e687b90a79d filter=lfs diff=lfs merge=lfs -text
+*.enc filter=lfs diff=lfs merge=lfs -text
