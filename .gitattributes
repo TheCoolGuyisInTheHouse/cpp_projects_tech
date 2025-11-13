@@ -24,3 +24,7 @@
 /wk05-dy01-pr02/.vs/wk05-dy01-pr02/copilot-chat/b3e080f6/sessions/12297d56-0e3b-4730-afa2-6b389993c677 filter=lfs diff=lfs merge=lfs -text
 /wk05-dy01-pr02/.vs/wk05-dy01-pr02/copilot-chat/b3e080f6/sessions/a047274c-00ca-40c5-9515-1e687b90a79d filter=lfs diff=lfs merge=lfs -text
 *.enc filter=lfs diff=lfs merge=lfs -text
+*.h filter=lfs diff=lfs merge=lfs -text
+/wk10-dy01-pr01/.vs/wk10-dy01-pr01/copilot-chat/b3e080f6/sessions/67e75335-43cd-49cb-bf25-eac5b2a24fee filter=lfs diff=lfs merge=lfs -text
+/wk10-dy01-pr01/.vs/wk10-dy01-pr01/copilot-chat/b3e080f6/sessions/97f33272-df9f-4920-a49a-a7b65f4a8801 filter=lfs diff=lfs merge=lfs -text
+*.slnx filter=lfs diff=lfs merge=lfs -text
